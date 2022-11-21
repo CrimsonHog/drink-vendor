@@ -1,0 +1,9 @@
+<h2>My favorite drinks</h2>
+<p id="p1">
+<ol type="A">
+<li>Dr Pepper</li>
+<li>CocaCola</li>
+<li>Monster</li>
+<li>Coffee</li>
+</ol>
+</p>
